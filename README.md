@@ -1,4 +1,4 @@
-### Sejá bem-vindo!
+### Seja bem-vindo!
 
 - 🔭 Estudante do curso de Engenharia de Software
 - 🌱 C# | PYTHON | HTML | CSS
